@@ -1,0 +1,12 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  background-color: rgb(249, 86, 5);
+  height: 70px;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  h2{
+    color:#fff;
+  }
+}
